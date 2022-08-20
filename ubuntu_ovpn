@@ -1,3 +1,11 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.190.54';
+USER='ksatunne_vipdreamnet';
+PASS='vipdr132eamne3t';
+DBNAME='ksatunne_vipdreamnet';
+PORT_TCP='1194';
+PORT_UDP='53';
 
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 
